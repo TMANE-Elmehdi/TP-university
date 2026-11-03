@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE biblio SYSTEM 'biblio.dtd'>
+<biblio>
+    <etudiant code="12" nom="Tmane" prenom="Elemhdi" age="22">
+        <livre id="1" titre="XML" datePret="2023-11-22" rendu="non"/>
+        <livre id="2" titre="java" datePret="2023-10-12" rendu="oui"/>
+        <livre id="3" titre="python" datePret="2023-08-02" rendu="non"/>
+    </etudiant>
+    <etudiant code="15" nom="Abou-elfouz" prenom="Houssam" age="22">
+        <livre id="5" titre="naruto" datePret="2022-11-22" rendu="non"/>
+        <livre id="6" titre="JJK" datePret="2015-10-12" rendu="non"/>
+        <livre id="8" titre="solo leveling" datePret="2025-08-02" rendu="oui"/>
+    </etudiant>
+</biblio>
